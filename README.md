@@ -15,8 +15,6 @@
 11. Prompts reutilizáveis  
 12. Plano de treino técnico  
 13. Critérios de evolução  
-14. Conclusão  
-15. Descrição para entrega na DIO  
 
 ---
 
